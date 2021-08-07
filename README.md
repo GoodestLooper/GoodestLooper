@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and some of SASS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: konradsosna4@o2.pl
+- 📫 How to reach me: use GitHub as communicator, gonna check every few hours
 
 <!---
 GoodestLooper/GoodestLooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
