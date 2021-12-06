@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoodestLooper
+- 👋 Hi, I’m 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and some of SASS
 - 💞️ I’m looking to collaborate on ...
